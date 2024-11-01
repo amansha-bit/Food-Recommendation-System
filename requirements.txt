@@ -32,6 +32,6 @@ pyparsing>=3.0.9
 python-dateutil>=2.8.1
 python-json-logger>=2.0
 pytz>=2024.0
-
+nltk>=3.8.1
 # Optional: Windows-specific, exclude on non-Windows environments
 pywin32; platform_system == "Windows"
